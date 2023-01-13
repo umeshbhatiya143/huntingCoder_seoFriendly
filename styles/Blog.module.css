@@ -1,0 +1,22 @@
+.main {
+    background-color: white;
+    color: black;
+    min-height: 100vh;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 3rem;
+  }
+
+  .blogItemh3{
+    font-size:28px;
+    padding:10px 0;
+  }
+  .blogItemp{
+    font-size: 15px;
+    max-width: 45vw;
+  }
+  

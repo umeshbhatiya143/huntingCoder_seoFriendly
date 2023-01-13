@@ -1,0 +1,11 @@
+.container{
+    margin: 45px auto;
+    max-width: 45vw;
+}
+
+.center{
+    text-align: center;
+}
+.content{
+    padding: 5px 0px 10px 0px;
+}
